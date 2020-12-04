@@ -1,0 +1,28 @@
+{
+  "name": "backbonejs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acaldwell-pixel/backbonejs-example.git"
+  },
+  "keywords": [],
+  "author": "Antonette Caldwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acaldwell-pixel/backbonejs-example/issues"
+  },
+  "homepage": "https://github.com/acaldwell-pixel/backbonejs-example#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "backbone": "^1.4.0",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "underscore": "^1.12.0"
+  }
+}
